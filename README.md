@@ -35,7 +35,7 @@
   <br>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucas21-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas21-dev&layout=compact&langs_count=7&theme=dracula"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucas21-dev&theme=dark" alt="lucas21-dev" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucas21-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas21-dev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas21-dev&theme=dark" alt="lucas21-dev" />
 </div>
