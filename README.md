@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, sou Lucas Rodrigues</h1>
-<h3 align="center">Atualmente sou estudante de Desenvolvimento Web FullStack na Trybe!</h3>
+<h3 align="center">Sou Desenvolvedor Web FullStack!</h3>
 
 <div align="center">
 
-🌱 Atualmente aprendendo **BackEnd Node.js, SQL e Docker**
+🌱 Atualmente aprendendo BackEnd: **Node.js, SQL, NoSQL, Docker e Typescript**
 
 📫 **theluks21@live.com**
  
@@ -30,12 +30,10 @@
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express&theme=light" alt="express" width="40" height="40"/> </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   </p>
   <br>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucas21-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas21-dev&layout=compact&langs_count=7&theme=dark"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas21-dev&theme=dark" alt="lucas21-dev" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=lucas21-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas21-dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
