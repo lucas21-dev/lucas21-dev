@@ -3,7 +3,7 @@
 
 <div align="center">
 
-🌱 Atualmente aprendendo BackEnd: **Node.js, SQL, NoSQL, Docker e Typescript**
+🌱 Atualmente Trabalho na WebMais Sistemas e que tem como principais tecnologias o javascript e o banco de dados integrado Caché intersystems**
 
 📫 **theluks21@live.com**
  
